@@ -1,0 +1,34 @@
+body {
+  background-color: #F5FFFA;
+  color: #1a1b41;
+  display: flex;
+  gap: 10px;
+}
+
+.container {
+  display: grid;
+  width: 50%;
+  height: 1000px;
+  background-color: blue;
+  gap: 10px;
+}
+
+.gridItem {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.containerFlex {
+  display: flex;
+  width: 50%;
+  height: 1000px;
+  background-color: blueviolet;
+  gap: 10px;
+}
+
+.flexItem {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
